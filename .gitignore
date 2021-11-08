@@ -1,0 +1,42 @@
+# Скомпилированный файл класса
+* .class
+
+# Файл журнала
+* .log
+
+# Файлы BlueJ
+* .ctxt
+
+# Мобильные инструменты для Java (J2ME)
+.mtj.tmp /
+
+# Файлы свойств
+* .properties
+
+# Файлы пакета #
+* .jar
+* .war
+* .nar
+* .ear
+* .zip
+* .tar.gz
+* .rar
+* .iml
+
+# Файлы проекта
+.idea
+.allure /
+.gradle /
+очарование-результаты /
+Gradle /
+build /
+bin /
+из /
+журналы /
+цель /
+.classpath
+.проект
+.settings / org.eclipse.buildship.core.prefs
+.vscode
+/ gradlew
+/ gradlew.bat
